@@ -1,4 +1,4 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm Yours Dev Solanki 👋
 
 🎓 I'm a Computer Science student who loves solving problems on LeetCode  
 💻 Java | Web Dev | MERN Stack | DSA  
