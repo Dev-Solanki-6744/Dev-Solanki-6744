@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Your Name 👋
 
-<!--
-**Dev-Solanki-6744/Dev-Solanki-6744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student who loves solving problems on LeetCode  
+💻 Java | Web Dev | MERN Stack | DSA  
+🎯 Currently working on: building awesome projects and mastering system design  
+📫 Reach me at: devsolanki8347706744@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 📌 Projects
+- 🎯 [LeetCode Solutions](https://github.com/your-username/leetcode-solutions)
+- 🧰 [Portfolio Website](https://your-username.github.io)
+- 🕹️ [Story-Based Gaming Video Channel](https://www.youtube.com/@DoryLusGaMer)
+
+---
+
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-solanki-603a60246)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Dev-Solanki-6744)
