@@ -28,7 +28,9 @@
 ## 📌 Projects
 - 🎯 [LeetCode Solutions](https://github.com/your-username/leetcode-solutions)
 - 🧰 [Portfolio Website](https://your-username.github.io)
-- 🕹️ [Story-Based Gaming Video Channel](https://www.youtube.com/@DoryLusGaMer)
+
+- <!-- - 🕹️ [Story-Based Gaming Video Channel](https://www.youtube.com/@DoryLusGaMer) -->
+
 
 ---
 
