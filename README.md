@@ -73,21 +73,10 @@ I’m a Computer Science student deeply passionate about crafting full-stack web
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Dev-Solanki-6744/Dev-Solanki-6744/output/github-snake.svg)
 
----
 
-## 📌 Projects
-
-- 💻 [LeetCode Solutions](https://github.com/Dev-Solanki-6744/leetcode-solutions)
-- 🌐 [Portfolio Website](https://Dev-Solanki-6744.github.io)
 
 ---
 
-## 💰 Support My Work
-If you like my work, feel free to support me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/) <!-- Add your link if available -->
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Dev-Solanki-6744&icon=0&color=0" alt="visit counter" />
