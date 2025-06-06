@@ -71,8 +71,7 @@ I’m a Computer Science student deeply passionate about crafting full-stack web
 
 ## 🔥 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Dev-Solanki-6744/Dev-Solanki-6744/output/github-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Dev-Solanki-6744/Dev-Solanki-6744/main/dist/github-contribution-grid-snake.svg)
 
 
 ---
